@@ -10,6 +10,8 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/79679194/229520741-b9f50e02-965b-448a-96c8-04b333ce883a.png" height="250px" width="400px"></p>
 
+<br/>
+
 ### The dataset information is as follows:
 - **Lending matrix:** This matrix indicates whether the user has borrowed the book (1 if borrowed, 0 if not).
 
@@ -19,7 +21,8 @@
 
 - **Derived variables:** Country of publication, Cumulative number of book lending by book.
 
-
+<br/>
+  
 ### Performance and Opinion
 -  In the case of HIT rate without considering the recommendation order, AI-VAE showed the best performance.
 
@@ -31,6 +34,7 @@
 ![AI-VAE 성능 결과 1](https://user-images.githubusercontent.com/79679194/229666500-558159b0-52ed-4202-a7eb-b52c03ddb7f2.png) |![AI-VAE 성능 결과 2](https://user-images.githubusercontent.com/79679194/229666538-2097bef0-3db1-4d33-8025-42e67b0d239d.png)
 --- | --- | 
 
+<br/>
 
 ### Reference
 - AI-VAE: https://m.riss.kr/link?id=T16622597
